@@ -1,2 +1,2 @@
 # simulados
-Simulados de ENEM e vestibular / cursos
+Simulados de ENEM e vestibular / cursos.
